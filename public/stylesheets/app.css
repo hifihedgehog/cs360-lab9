@@ -1,0 +1,18 @@
+.li-comment {
+   -webkit-transition: top 0.5s ease-in-out;
+   -moz-transition: top 0.5s ease-in-out;
+   transition: top 0.5s ease-in-out;
+   color: green;
+}
+
+.tweet-deep-red {
+  color: #5c0002;
+}
+
+.tweet-bright-red {
+  color: #d40d12;
+}
+
+.tweet-black {
+  color: black;
+}
